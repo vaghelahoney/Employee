@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dotnet\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|e:\\dotnet\\employee\\employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|solutionrelative:employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|e:\\dotnet\\employee\\employee\\repository\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|solutionrelative:employee\\repository\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|e:\\dotnet\\employee\\employee\\irepository\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|solutionrelative:employee\\irepository\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|e:\\dotnet\\employee\\employee\\model\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|solutionrelative:employee\\model\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|e:\\dotnet\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|e:\\dotnet\\employee\\employee\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|solutionrelative:employee\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|e:\\dotnet\\employee\\employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D863C19-EA20-4D1A-B998-74E0FE20C126}|Employee\\Employee.csproj|solutionrelative:employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeesRepository.cs",
+              "DocumentMoniker": "E:\\Dotnet\\Employee\\Employee\\IRepository\\IEmployeesRepository.cs",
+              "RelativeDocumentMoniker": "Employee\\IRepository\\IEmployeesRepository.cs",
+              "ToolTip": "E:\\Dotnet\\Employee\\Employee\\IRepository\\IEmployeesRepository.cs",
+              "RelativeToolTip": "Employee\\IRepository\\IEmployeesRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:06:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "E:\\Dotnet\\Employee\\Employee\\Model\\Employees.cs",
+              "RelativeDocumentMoniker": "Employee\\Model\\Employees.cs",
+              "ToolTip": "E:\\Dotnet\\Employee\\Employee\\Model\\Employees.cs",
+              "RelativeToolTip": "Employee\\Model\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:06:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Dotnet\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Dotnet\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:06:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesRepository.cs",
+              "DocumentMoniker": "E:\\Dotnet\\Employee\\Employee\\Repository\\EmployeesRepository.cs",
+              "RelativeDocumentMoniker": "Employee\\Repository\\EmployeesRepository.cs",
+              "ToolTip": "E:\\Dotnet\\Employee\\Employee\\Repository\\EmployeesRepository.cs",
+              "RelativeToolTip": "Employee\\Repository\\EmployeesRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:06:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dotnet\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "E:\\Dotnet\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:06:34.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Dotnet\\Employee\\Employee\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Employee\\AppDbContext.cs",
+              "ToolTip": "E:\\Dotnet\\Employee\\Employee\\AppDbContext.cs",
+              "RelativeToolTip": "Employee\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:06:34.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Dotnet\\Employee\\Employee\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee\\appsettings.json",
+              "ToolTip": "E:\\Dotnet\\Employee\\Employee\\appsettings.json",
+              "RelativeToolTip": "Employee\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T09:06:34.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
